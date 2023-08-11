@@ -6,3 +6,4 @@
 [new2cv (1).pdf](https://github.com/marina-jpg/ds/files/12247124/new2cv.1.pdf)
 
 
+[My project(diploma) (github).pdf](https://github.com/marina-jpg/ds/files/12318597/My.project.diploma.github.pdf)
