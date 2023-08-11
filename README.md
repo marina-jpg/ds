@@ -5,4 +5,4 @@
 [Марина Михасёва (1).pdf](https://github.com/marina-jpg/ds/files/12247117/1.pdf)
 [new2cv (1).pdf](https://github.com/marina-jpg/ds/files/12247124/new2cv.1.pdf)
 
-[My project(diploma).pdf](https://github.com/marina-jpg/ds/files/12248653/My.project.diploma.pdf)
+
