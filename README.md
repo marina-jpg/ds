@@ -8,5 +8,6 @@
 
 [My project(diploma) (github).pdf](https://github.com/marina-jpg/ds/files/12318597/My.project.diploma.github.pdf)
 [Figma release notes.pdf](https://github.com/marina-jpg/ds/files/12484588/Figma.release.notes.pdf)
-![kak_rabotaet_kondicioner](https://github.com/marina-jpg/ds/assets/124706815/60dfa652-be33-4ac0-b9c7-fe2c62c59c27)
+
 [Инструкция по эксплуатации тостера.pdf](https://github.com/marina-jpg/ds/files/12484590/default.pdf)
+[Как работает кондиционер.pdf](https://github.com/marina-jpg/ds/files/12484595/default.pdf)
