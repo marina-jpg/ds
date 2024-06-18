@@ -11,3 +11,4 @@
 
 [Инструкция по эксплуатации тостера.pdf](https://github.com/marina-jpg/ds/files/12484590/default.pdf)
 [Как работает кондиционер.pdf](https://github.com/marina-jpg/ds/files/12484595/default.pdf)
+[TW Михасева Марина.docx.pdf](https://github.com/user-attachments/files/15882208/TW.docx.pdf)
